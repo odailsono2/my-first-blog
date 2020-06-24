@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'yu2c86(7n7az305(yvvjil^q7xw*foouf#d_6u4klusfojc#!r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 # alterando hosts
 ALLOWED_HOSTS = ['127.0.0.1','odailsono2.pythonanywhere.com']
 
